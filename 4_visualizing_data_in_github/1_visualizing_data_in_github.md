@@ -18,7 +18,7 @@ GitHub supports rendering geoJSON (.geojson) and topoJSON (.topojson) files with
 
 Examples:
 
-- [Farmer Markets](../example_datasets/War1812POI.geojson)
+- [War of 1812 Points of Interest](../example_datasets/War1812POI.geojson)
 
 - [Farmer Markets](../example_datasets/FarmersMarkets.geojson)
 
