@@ -13,8 +13,8 @@ Presented by [Michael Mottola](http://michaelmottola.ca).
 
 4. [Visualizing Data in GitHub](4_visualizing_data_in_github/1_visualizing_data_in_github.md)
 
-5. Using GitHub Demo
+5. [Using GitHub for Windows](5_github_for_windows/1_github_for_windows.md)
 
-6. GitHub Tools - GitHub for Windows
+6. Exercise: Creating an Open Data Set
 
-7. Exercise: Creating an Open Data Set
+7. GeoJSON.io (time permitting)

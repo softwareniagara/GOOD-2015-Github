@@ -56,4 +56,4 @@ Source code is available to the general public for use and/or modification from 
 
 ---
 
-Next: [What is GitHub](../4_visualizing_data_in_github/1_visualizing_data_in_github.md)
+Next: [Visualizing Data in GitHub](../4_visualizing_data_in_github/1_visualizing_data_in_github.md)
