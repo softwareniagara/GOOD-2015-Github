@@ -9,7 +9,7 @@ Presented by [Michael Mottola](http://michaelmottola.ca).
 
 2. [What is GitHub](2_what_is_github/1_what_is_github.md)
 
-3. [Open Source + The GitHub Philosophy](3_open_source_github_philosophy/1_open_source_github_philosophy.md)
+3. [Open Source + The GitHub Philosophy](3_open_source_and_github_philosophy/1_open_source_github_philosophy.md)
 
 4. [Visualizing Data in GitHub](4_visualizing_data_in_github/1_visualizing_data_in_github.md)
 

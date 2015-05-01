@@ -91,4 +91,4 @@
 
 ---
 
-Next: [Open Source + The GitHub Philosophy](../3_open_source_github_philosophy/1_open_source_github_philosophy.md)
+Next: [Open Source + The GitHub Philosophy](../3_open_source_and_github_philosophy/1_open_source_github_philosophy.md)
