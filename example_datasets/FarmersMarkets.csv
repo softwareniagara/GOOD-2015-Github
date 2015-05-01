@@ -1,0 +1,12 @@
+entityid,Long,Lat,OBJECTID,SITE_NAME,ADDRESS,MUNICIPALITY
+,-79.468843826065,43.1652888527567,3,Beamsville Farmer's Market,4875 King Street,Lincoln
+,-79.0911604153248,43.0882862240395,4,Niagara Falls Farmer's Market,N/A,Niagara Falls
+,-79.2485207761492,42.9901326370944,10,Welland Farmer's Market,50 Market Square,Welland
+,-79.5458935351948,43.0989452310079,11,Smithville Farmer's Market,N/A,West Lincoln
+,-79.5610550469318,43.1936604136724,2,Grimsby Farmer's Market,N/A,Grimsby
+,-79.0518588357271,42.8823437079001,1,Ridgeway Farmer's Market,N/A,Fort Erie
+,-79.2465142211121,43.1588100295171,9,St. Catharines Farmer's Market,91 King Street,St. Catharines
+,-79.250169752648,43.1196870349975,8,Brock University Farmer's Market,500 Glenridge Avenue,St. Catharines
+,-79.2840397627926,43.0444747015798,6,Pelham Farmer's Market,20 Pelham Town Square,Pelham
+,-79.0955318448233,43.2444007838515,5,Farmer's Market at the Village,111 Garrison Village Drive,Niagara-on-the-Lake
+,-79.2524168372954,42.8854531919122,7,Port Colborne Farmer's Market,66 Charlotte Street,Port Colborne
